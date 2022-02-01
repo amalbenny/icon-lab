@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Created with PainterSVG V3.86 -->
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="svg"  width="793.6992" height="1122.5175" viewBox="0 0 793.6992 1122.5175">
+<defs></defs>
+<g psvg:layer="layer1">
+<g id="group8">
+<path id="path6" d=" M 395.8751,465.8874 C 342.2501,465.8874 298.3751,520.5624 298.3751,587.3874 298.3751,654.2124 342.2501,708.8875 395.8751,708.8875 449.5001,708.8875 493.3751,654.2124 493.3751,587.3874 493.3751,520.5624 449.5001,465.8874 395.8751,465.8874 Z M 399.1232,499.9959 C 438.5999,499.9959 470.899,540.2456 470.899,589.4396 470.899,638.6337 438.5999,678.8833 399.1232,678.8833 359.6465,678.8833 327.3474,638.6337 327.3474,589.4396 327.3474,540.2456 359.6465,499.9959 399.1232,499.9959 Z" style="fill:#D0D0D0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;" transform="matrix(1.1339,0,0,1.1339,-11.3385,-257.3853)"/>
+<path id="path2" d=" M 310.194,354.8969 560.9672,354.8969 C 590.2248,354.8969 614.1629,384.1546 614.1629,408.0927 L 614.1629,764.3145 C 614.1629,788.2526 584.9053,817.5101 560.9672,817.5101 L 310.194,817.5101 C 286.2559,817.5101 256.9983,788.2526 256.9983,764.3145 L 256.9983,408.0927 C 256.9983,384.1546 286.2559,354.8969 310.194,354.8969 Z" style="fill:#D0D0D0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;"/>
+<text id="text5" style="fill:#D0D0D0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;" transform="matrix(1.7988,0,0,1.7988,-347.7498,-383.7177)" x="396.8496" y="568.0619" font-family="AndroidClock" font-size="80" font-style="normal" text-align="left">✓</text></g>
+</g>
+</svg>
