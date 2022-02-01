@@ -137,22 +137,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src="/icon-lab/res/angles/right_angle.svg" style="width:100%" onclick="currentSlide(1)" alt="Right side indicated angle">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      <img class="demo cursor" src="/icon-lab/res/angles/double_right_angle.svg" style="width:100%" onclick="currentSlide(2)" alt="Right side indicated angles">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="/icon-lab/res/angles/left_angle.svg" style="width:100%" onclick="currentSlide(3)" alt="Left side indicated angle">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" src="/icon-lab/res/angles/double_left_angle.svg" style="width:100%" onclick="currentSlide(4)" alt="Left side indicated angles">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      <img class="demo cursor" src="/icon-lab/res/angles/right_angle_sign.svg" style="width:100%" onclick="currentSlide(5)" alt="Sign wich indicates the right side">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      <img class="demo cursor" src="/icon-lab/res/angles/left_angle_sign.svg" style="width:100%" onclick="currentSlide(6)" alt="Sign wich indicates the left side">
     </div>
   </div>
 </div>
