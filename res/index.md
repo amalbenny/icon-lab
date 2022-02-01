@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-    <meta name="viewport" content="width=device-width,maximum-scale=1">
-  <title>Search For Icons | icon lab</title>
-<style></style>
-    </head>
-<body>
 Here you can find all of the icons provided by <i>icon lab</i>.<br/>
 You can upload your own icon here without of any fees.
 
@@ -17,6 +9,7 @@ of visibility in search engines.
 <h2> Search...</h2>
 <input type="text" id="myInput" onkeyup="find()" placeholder="Search for icons..">
 <ul style="list-style-type:none;" id="listing" >
+
 <li><a>Alarm</a></li>
 <li><a>Alien<a></li>
 <li><a>Angle</a></li>
@@ -31,8 +24,6 @@ of visibility in search engines.
 <li><a>Location</a></li>
 <li><a>Save</a></li>
 <li></li>
-
-
 
 </ul>
 
@@ -56,4 +47,4 @@ function find() {
     }
   }
 }
-</script></body></html>
+</script>
