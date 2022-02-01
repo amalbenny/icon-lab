@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width,maximum-scale=1">
+  <title>Search For Icons | icon lab</title>
+    </head>
+<body>
+Here you can find all of the icons provided by `icon lab`.<br/>
+You can upload your own icon here without of any fees.
+
+If you can please add attribution to the following
+<a href="/LICENSE">License</a>, It will be great appreciation
+for us to work more and it will also help to increase your ranking
+of visibility in search engines.
+
+## Search...
+<input type="text" id="myInput" onkeyup="find()" placeholder="Search for icons..">
+<ul style="list-style-type:none;" id="listing" >
+<li>Alarm</li>
+<li>Alien</li>
+<li>Angle</li>
+<li>Double Angle</li>
+<li>Arrow</li>
+<li>Backspace</li>
+<li>Bag</li>
+<li>Battery</li>
+<li>Clock</li>
+<li>Coffee</li>
+<li>Home</li>
+<li>Location</li>
+<li>Save</li>
+<li></li>
+
+
+
+</ul>
+
+<script>
+function find() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("listing");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script></body></html>
