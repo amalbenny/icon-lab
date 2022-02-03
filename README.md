@@ -9,5 +9,5 @@ You can contribute and use freely icons with advantage of open source licensing
 - free upload and use
 - [opensource](/LICENSE)
 
-## Explore Icons
-✨
+## [Explore Icons ✨](res)
+find out the latest collection of icons
